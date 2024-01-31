@@ -1,3 +1,11 @@
+<p >
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Cat on Computer GIF" style="margin-top: 20px; margin-bottom: 20px;">
+</p>
+
+
+<p >
+  <img src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" alt="Animated GIF" style="margin-top: 20px; margin-bottom: 20px;">
+</p>
 
 ### Languages
 
